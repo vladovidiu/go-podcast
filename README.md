@@ -1,2 +1,2 @@
 # go-podcast
-iTunes podcast wrapper in go
+iTunes podcast wrapper in go using graphql
